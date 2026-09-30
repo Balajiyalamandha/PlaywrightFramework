@@ -1,0 +1,14 @@
+[
+  {
+    "username": "gonife5427@airychen.com",
+    "password": "12345678",
+    "expectSuccess": true
+  },
+  {
+    "username": "admin@test.com",
+    "password": "WrongPass",
+    "expectSuccess": false
+  }
+  
+  
+]
