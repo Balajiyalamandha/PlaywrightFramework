@@ -46,5 +46,4 @@ await page.locator('search-box-text[value="Search store"]').fill("Shirts");
 
 
 
-
 })
