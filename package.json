@@ -8,7 +8,29 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
-    "@types/node": "^26.6.2",
-    "playwright": "^1.63.0"
-  }
+    "@types/node": "^26.6.3",
+    "playwright": "^1.63.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.14",
+    "@langchain/langgraph": "^1.4.18",
+    "@langchain/openai": "^1.6.2",
+    "playwright-core": "^1.63.0",
+    "undici-types": "^8.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balajiyalamandha/PlaywrightFramework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balajiyalamandha/PlaywrightFramework/issues"
+  },
+  "homepage": "https://github.com/Balajiyalamandha/PlaywrightFramework#readme"
 }
